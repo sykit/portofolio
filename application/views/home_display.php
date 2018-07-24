@@ -8,9 +8,9 @@
         <div class="row">
 
             <!-- Left Column -->
-            <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4 box-shadow right-display">
+            <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4 right-display">
 
-                <div class="background-white text-color-grey w3-card-4">
+                <div class="background-white text-color-grey w3-card-4  box-shadow">
                     <div class="image-container">
                         <img class="image-display" src="<?php echo base_asset(); ?>image/background_home.jpg" alt="Avatar">
                         <div class="name-display">
@@ -50,14 +50,7 @@
                         <div class="light-grey border-Radius">
                             <div class="border-Radius display-bar" style="height:24px;width:100%"></div>
                         </div>
-                        <p class="p-style">Spanish</p>
-                        <div class="light-grey border-Radius">
-                            <div class="border-Radius display-bar" style="height:24px;width:55%"></div>
-                        </div>
-                        <p class="p-style">German</p>
-                        <div class="light-grey border-Radius">
-                            <div class="border-Radius display-bar" style="height:24px;width:25%"></div>
-                        </div>
+                       
                         <br>
                     </div>
                 </div><br>
