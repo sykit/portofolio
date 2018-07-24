@@ -19,6 +19,7 @@
                     </div>
                     <div class="right-display-text">
                         <div class="flex-display"><div class="icon-right"><i class="fa fa-briefcase fa-fw w3-margin-right font-large icon-color"></i></div><p>Programmer</p></div>
+                        <div class="flex-display"><div class="icon-right"><i class="fa fa-birthday-cake fa-fw w3-margin-right font-large icon-color"></i></div><p>Sukabumi, 21 November 1995</p></div>
                         <div class="flex-display"><div class="icon-right"><i class="fa fa-home fa-fw w3-margin-right font-large icon-color"></i></div><p>Kp. Cipanggulaan RT 03 / RW 01 Kec. Parungkuda Kab. Sukabumi</p></div>
                         <div class="flex-display"><div class="icon-right"><i class="fa fa-envelope fa-fw w3-margin-right font-large icon-color"></i></div><p>sykit21@ymail.com</p></div>
                         <div class="flex-display"><div class="icon-right"><i class="fa fa-phone fa-fw w3-margin-right font-large icon-color"></i></div><p>085716914786</p></div>
@@ -48,7 +49,7 @@
                         <p class="font-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right icon-color"></i>Languages</b></p>
                         <p class="p-style">English</p>
                         <div class="light-grey border-Radius">
-                            <div class="border-Radius display-bar" style="height:24px;width:100%"></div>
+                            <div class="border-Radius display-bar" style="height:24px;width:80%"></div>
                         </div>
                        
                         <br>
@@ -64,8 +65,8 @@
                 <div class="w3-container w3-card background-white margin-bottom box-shadow left-display-padding">
                     <h2 class="text-color-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge icon-color"></i>Work Experience</h2>
                     <div class="w3-container">
-                        <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-                        <h6 class="icon-color"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag display-bar w3-round">Current</span></h6>
+                        <h5 class="w3-opacity"><b>PT. easySoft Indonesia</b></h5>
+                        <h6 class="icon-color"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2018</h6>
                         <p class="p-style">Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
                         <hr>
                     </div>
