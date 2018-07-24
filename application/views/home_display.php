@@ -97,7 +97,7 @@
     </div>
 
     <footer class="w3-container display-bar center-position w3-margin-top">
-        <p class="p-style">Find me on social media.</p>
+        <p class="p-style">Find me on</p>
         <a class="text-color-white" href="https://www.facebook.com/sykit" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity">&nbsp; facebook</i></a>
         <a class="text-color-white" href="https://www.instagram.com/sykit/" target="_blank"><i class="fa fa-instagram w3-hover-opacity">&nbsp; Instagram</i></a>
         <a class="text-color-white" href="https://www.instagram.com/sykit/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity">&nbsp; Linkedin</i></a>
