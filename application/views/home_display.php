@@ -63,11 +63,25 @@
             <div class="col col-sm col-md col-lg col-xl  left-display">
 
                 <div class="w3-container w3-card background-white margin-bottom box-shadow left-display-padding">
+                    <h2 class="text-color-grey w3-padding-16"><i class="fa fa-user fa-fw w3-margin-right w3-xxlarge icon-color"></i>About Me</h2>
+                    <div class="w3-container">
+                        <p class="p-style-experience">Nama saya Sigit Indrajaya. saya adalah seorang sarjana strata satu dari universitas gunadarma dengan jurusan teknik informatika. saya orangnya periang, aktif, memiliki logika yang tinggi, senang untuk mencari hal baru, dan mudah untuk bergaul. hobi  saya bermain game dan berenang. saya suka dengan hal-hal mengenai teknologi. 
+
+saya biasa menghabiskan waktu senggang untuk belajar mengenai pemrograman web. saya memulai belajar membuat web 3 tahun yang lalu. saya sudah terbiasa untuk membaca kodingan orang lain. saya juga belajar design sedikit untuk membuat gambar-gambar  yang saya butuhkan sehingga web yang saya buat semakin bagus 
+
+Development Expertise : PHP,  HTML, Javascript, CSS, java
+
+Graphic Design : Inkscape, photoshop.</p>
+                    </div>                    
+                </div>
+                
+                <div class="w3-container w3-card background-white margin-bottom box-shadow left-display-padding">
                     <h2 class="text-color-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge icon-color"></i>Work Experience</h2>
                     <div class="w3-container">
                         <h5 class="w3-opacity"><b>PT. easySoft Indonesia</b></h5>
                         <h6 class="icon-color"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2018</h6>
-                        <p class="p-style">I participated in the creation of a web, where the web is a web dynamis, and using a web socket. the web is similar to whatsapp web, but it has more features.</p>
+                        <div class="flex-display jobdesk"><div class="small-icon"><i class="fa fa-briefcase fa-fw font-large icon-color "></i></div><p class="p-style-experience">Product Solution</p></div>
+                        <p class="p-style-experience">I participated in the creation of a web, where the web is a web dynamis, and using a web socket. the web is similar to whatsapp web, but it has more features.</p>
                     </div>                    
                 </div>
 
@@ -98,10 +112,10 @@
 
     <footer class="w3-container display-bar center-position w3-margin-top">
         <p class="p-style">Find me on</p>
-        <a class="text-color-white" href="https://www.facebook.com/sykit" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity">&nbsp; facebook</i></a>
+        <a class="text-color-white" href="https://www.facebook.com/sykit/" target="_blank"><i class="fa fa-facebook-official w3-hover-opacity">&nbsp; facebook</i></a>
         <a class="text-color-white" href="https://www.instagram.com/sykit/" target="_blank"><i class="fa fa-instagram w3-hover-opacity">&nbsp; Instagram</i></a>
-        <a class="text-color-white" href="https://www.instagram.com/sykit/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity">&nbsp; Linkedin</i></a>
-        <a class="text-color-white" href="https://github.com/sykit" target="_blank"><i class="fa fa-github w3-hover-opacity">&nbsp; GitHub</i></a>
+        <a class="text-color-white" href="https://www.linkedin.com/in/sigitdraya/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity">&nbsp; Linkedin</i></a>
+        <a class="text-color-white" href="https://github.com/sykit/" target="_blank"><i class="fa fa-github w3-hover-opacity">&nbsp; GitHub</i></a>
         <p class="p-style">Create by Sigit Indrajaya</p>
     </footer>
 

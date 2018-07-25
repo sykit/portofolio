@@ -95,3 +95,15 @@
 .text-color-white{
     color: #fff;
 }
+.p-style-experience{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    white-space: pre-line
+}
+.jobdesk{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.small-icon{
+    width: 25px
+}
